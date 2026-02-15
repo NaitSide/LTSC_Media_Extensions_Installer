@@ -124,7 +124,7 @@ Microsoft.WebpImageExtension        1.2.14.0
 
 ## 👤 Автор
 
-**NaitSide** — 2025
+**NaitSide** — 2026
 
 ## 📄 Лицензия
 

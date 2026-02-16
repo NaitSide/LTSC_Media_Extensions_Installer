@@ -36,7 +36,7 @@ echo    • Установка всех .AppxBundle из папки Extensions
 echo    • Интеграция расширений через DISM
 echo.
 echo =========================================================
-echo    GitHub: github.com/NaitSide
+echo    GitHub: github.com/NaitSide/LTSC_Media_Extensions_Installer
 echo =========================================================
 echo.
 pause
